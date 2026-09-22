@@ -1,116 +1,116 @@
 Week_Start,Total_Quantity_Sold,Event
-2023-04-03,55,Holiday - Black Saturday
-2023-04-10,143,Normal Day
-2023-04-17,183,Normal Day
-2023-04-24,348,Normal Day
-2023-05-01,174,Normal Day
-2023-05-08,204,Class Suspension - High Temperature
-2023-05-15,237,Normal Day
-2023-05-22,197,Normal Day
-2023-05-29,314,Normal Day
-2023-06-05,248,Normal Day
-2023-06-12,320,Normal Day
-2023-06-19,280,Normal Day
-2023-06-26,275,"Class Suspension - Sangyaw Festival, Class Suspension - Tacloban Day"
-2023-07-03,304,Normal Day
-2023-07-10,322,Normal Day
-2023-07-17,395,Normal Day
-2023-07-24,490,Normal Day
-2023-07-31,255,Normal Day
-2023-08-07,226,Normal Day
-2023-08-14,194,Normal Day
-2023-08-21,198,Holiday - Ninoy Aquino Day
-2023-08-28,192,Normal Day
-2023-09-04,304,Normal Day
-2023-09-11,284,Normal Day
-2023-09-18,339,Normal Day
-2023-09-25,377,Normal Day
-2023-10-02,237,Class Suspension - World Teachers' Day
-2023-10-09,187,Normal Day
-2023-10-16,204,Normal Day
-2023-10-23,331,Normal Day
-2023-10-30,256,"Class Suspension (starting 12:01 pm) - All Saints Day, Holiday - All Saints' Day, Holiday - All Souls' Day, Holiday - Baranggay and Sangguniang Kabataan Elections"
-2023-11-06,294,Class Suspension - Yolanda Day
-2023-11-13,234,Normal Day
-2023-11-20,306,Class Suspension - Heavy Rainfall
-2023-11-27,264,Normal Day
-2023-12-04,373,Holiday - Feast of the Immaculate Conception of Mary
-2023-12-11,291,Normal Day
-2023-12-18,270,"Class Suspension, Class Suspension - 15th HUC Day"
-2023-12-25,270,Holiday - Additional Special Non-Working Day
-2024-01-01,206,Normal Day
-2024-01-08,200,Normal Day
-2024-01-15,210,Normal Day
-2024-01-22,229,Normal Day
-2024-01-29,260,Normal Day
-2024-02-05,204,"Holiday - Additional Special Non-Working Day, Holiday - Chinese New Year"
-2024-02-12,366,Normal Day
-2024-02-19,324,Normal Day
-2024-02-26,314,Normal Day
-2024-03-04,330,Normal Day
-2024-03-11,229,Normal Day
-2024-03-18,225,Normal Day
-2024-03-25,337,"Class Suspension (12:00 pm onwards), Holiday - Black Saturday, Holiday - Good Friday, Holiday - Maundy Thursday"
-2024-04-01,214,Normal Day
-2024-04-08,209,Holiday - Eid'l Fitr
-2024-04-15,220,Normal Day
-2024-04-22,136,Normal Day
-2024-04-29,314,"Class Suspension (F2F) - Transport Strike, Class Suspension - High Temperature, Holiday - Labor Day"
-2024-05-06,277,Normal Day
-2024-05-13,318,Normal Day
-2024-05-20,300,Normal Day
-2024-05-27,337,Normal Day
-2024-06-03,402,Normal Day
-2024-06-10,321,Holiday - Independence Day
-2024-06-17,269,Normal Day
-2024-06-24,1093,Normal Day
-2024-07-01,404,Class Suspension - Sangyaw Festival
-2024-07-08,280,Normal Day
-2024-07-15,266,Normal Day
-2024-07-22,203,Normal Day
-2024-07-29,251,Class Suspension - Bagong Pilipinas Serbisyo Fair
-2024-08-05,258,Normal Day
-2024-08-12,197,Normal Day
-2024-08-19,234,Holiday - Ninoy Aquino Day
-2024-08-26,186,Holiday - National Heroes Day
-2024-09-02,253,Normal Day
-2024-09-09,206,Normal Day
-2024-09-16,156,Normal Day
-2024-09-23,223,Normal Day
-2024-09-30,817,Class Suspension - World Teachers' Day
-2024-10-07,593,Normal Day
-2024-10-14,254,Normal Day
-2024-10-21,256,"Class Suspension - Heavy Rainfall, Class Suspension - Typhoon Kristine"
-2024-10-28,279,"Class Suspension (starting 12:01 pm) - All Saints Day, Holiday - All Saints' Day, Holiday - All Souls' Day"
-2024-11-04,332,Class Suspension - Yolanda Day
-2024-11-11,267,Class Suspension (starting 12:01 pm) - Typhoon Pepito
-2024-11-18,318,Normal Day
-2024-11-25,378,Holiday - Bonifacio Day
-2024-12-02,321,Holiday - Feast of the Immaculate Conception of Mary
-2024-12-09,351,Normal Day
-2024-12-16,233,"Class Suspension - Low Pressure Area, Class Suspension - Typhoon Querubin"
-2024-12-23,259,Holiday - Christmas Eve
-2024-12-30,213,"Holiday - Last Day of the Year, Holiday - Rizal Day"
-2025-01-06,293,Normal Day
-2025-01-13,282,Normal Day
-2025-01-20,405,Normal Day
-2025-01-27,334,Holiday - Chinese New Year
-2025-02-03,348,Normal Day
-2025-02-10,415,Class Suspension - Heavy Rainfall
-2025-02-17,279,Class Suspension - Heavy Rainfall
-2025-02-24,289,Normal Day
-2025-03-03,309,Normal Day
-2025-03-10,281,Normal Day
-2025-03-17,166,Class Suspension - Heavy Rainfall
-2025-03-24,225,Forecast
-2025-03-31,244,Forecast
-2025-04-07,270,Forecast
-2025-04-14,280,Forecast
-2025-04-21,280,Forecast
-2025-04-28,294,Forecast
-2025-05-05,329,Forecast
-2025-05-12,359,Forecast
-2025-05-19,360,Forecast
-2025-05-26,344,Forecast
-2025-06-02,357,Forecast
-2025-06-09,426,Forecast
+4/3/2023,55,Holiday - Black Saturday
+4/10/2023,143,Normal Day
+4/17/2023,183,Normal Day
+4/24/2023,348,Normal Day
+5/1/2023,174,Normal Day
+5/8/2023,204,Class Suspension - High Temperature
+5/15/2023,237,Normal Day
+5/22/2023,197,Normal Day
+5/29/2023,314,Normal Day
+6/5/2023,248,Normal Day
+6/12/2023,320,Normal Day
+6/19/2023,280,Normal Day
+6/26/2023,275,"Class Suspension - Sangyaw Festival, Class Suspension - Tacloban Day"
+7/3/2023,304,Normal Day
+7/10/2023,322,Normal Day
+7/17/2023,395,Normal Day
+7/24/2023,490,Normal Day
+7/31/2023,255,Normal Day
+8/7/2023,226,Normal Day
+8/14/2023,194,Normal Day
+8/21/2023,198,Holiday - Ninoy Aquino Day
+8/28/2023,192,Normal Day
+9/4/2023,304,Normal Day
+9/11/2023,284,Normal Day
+9/18/2023,339,Normal Day
+9/25/2023,377,Normal Day
+10/2/2023,237,Class Suspension - World Teachers' Day
+10/9/2023,187,Normal Day
+10/16/2023,204,Normal Day
+10/23/2023,331,Normal Day
+10/30/2023,256,"Class Suspension (starting 12:01 pm) - All Saints Day, Holiday - All Saints' Day, Holiday - All Souls' Day, Holiday - Baranggay and Sangguniang Kabataan Elections"
+11/6/2023,294,Class Suspension - Yolanda Day
+11/13/2023,234,Normal Day
+11/20/2023,306,Class Suspension - Heavy Rainfall
+11/27/2023,264,Normal Day
+12/4/2023,373,Holiday - Feast of the Immaculate Conception of Mary
+12/11/2023,291,Normal Day
+12/18/2023,270,"Class Suspension, Class Suspension - 15th HUC Day"
+12/25/2023,270,Holiday - Additional Special Non-Working Day
+1/1/2024,206,Normal Day
+1/8/2024,200,Normal Day
+1/15/2024,210,Normal Day
+1/22/2024,229,Normal Day
+1/29/2024,260,Normal Day
+2/5/2024,204,"Holiday - Additional Special Non-Working Day, Holiday - Chinese New Year"
+2/12/2024,366,Normal Day
+2/19/2024,324,Normal Day
+2/26/2024,314,Normal Day
+3/4/2024,330,Normal Day
+3/11/2024,229,Normal Day
+3/18/2024,225,Normal Day
+3/25/2024,337,"Class Suspension (12:00 pm onwards), Holiday - Black Saturday, Holiday - Good Friday, Holiday - Maundy Thursday"
+4/1/2024,214,Normal Day
+4/8/2024,209,Holiday - Eid'l Fitr
+4/15/2024,220,Normal Day
+4/22/2024,136,Normal Day
+4/29/2024,314,"Class Suspension (F2F) - Transport Strike, Class Suspension - High Temperature, Holiday - Labor Day"
+5/6/2024,277,Normal Day
+5/13/2024,318,Normal Day
+5/20/2024,300,Normal Day
+5/27/2024,337,Normal Day
+6/3/2024,402,Normal Day
+6/10/2024,321,Holiday - Independence Day
+6/17/2024,269,Normal Day
+6/24/2024,1093,Normal Day
+7/1/2024,404,Class Suspension - Sangyaw Festival
+7/8/2024,280,Normal Day
+7/15/2024,266,Normal Day
+7/22/2024,203,Normal Day
+7/29/2024,251,Class Suspension - Bagong Pilipinas Serbisyo Fair
+8/5/2024,258,Normal Day
+8/12/2024,197,Normal Day
+8/19/2024,234,Holiday - Ninoy Aquino Day
+8/26/2024,186,Holiday - National Heroes Day
+9/2/2024,253,Normal Day
+9/9/2024,206,Normal Day
+9/16/2024,156,Normal Day
+9/23/2024,223,Normal Day
+9/30/2024,817,Class Suspension - World Teachers' Day
+10/7/2024,593,Normal Day
+10/14/2024,254,Normal Day
+10/21/2024,256,"Class Suspension - Heavy Rainfall, Class Suspension - Typhoon Kristine"
+10/28/2024,279,"Class Suspension (starting 12:01 pm) - All Saints Day, Holiday - All Saints' Day, Holiday - All Souls' Day"
+11/4/2024,332,Class Suspension - Yolanda Day
+11/11/2024,267,Class Suspension (starting 12:01 pm) - Typhoon Pepito
+11/18/2024,318,Normal Day
+11/25/2024,378,Holiday - Bonifacio Day
+12/2/2024,321,Holiday - Feast of the Immaculate Conception of Mary
+12/9/2024,351,Normal Day
+12/16/2024,233,"Class Suspension - Low Pressure Area, Class Suspension - Typhoon Querubin"
+12/23/2024,259,Holiday - Christmas Eve
+12/30/2024,213,"Holiday - Last Day of the Year, Holiday - Rizal Day"
+1/6/2025,293,Normal Day
+1/13/2025,282,Normal Day
+1/20/2025,405,Normal Day
+1/27/2025,334,Holiday - Chinese New Year
+2/3/2025,348,Normal Day
+2/10/2025,415,Class Suspension - Heavy Rainfall
+2/17/2025,279,Class Suspension - Heavy Rainfall
+2/24/2025,289,Normal Day
+3/3/2025,309,Normal Day
+3/10/2025,281,Normal Day
+3/17/2025,166,Class Suspension - Heavy Rainfall
+3/24/2025,325,Forecast
+3/31/2025,325,Forecast
+4/7/2025,326,Forecast
+4/14/2025,327,Forecast
+4/21/2025,327,Forecast
+4/28/2025,328,Forecast
+5/5/2025,328,Forecast
+5/12/2025,329,Forecast
+5/19/2025,330,Forecast
+5/26/2025,330,Forecast
+6/2/2025,331,Forecast
+6/9/2025,331,Forecast
